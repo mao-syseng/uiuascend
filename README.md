@@ -1,2 +1,2 @@
-# Uiuascend
+# uiuascend
 roguelike inspiried by uiua
